@@ -52,7 +52,7 @@
     "codecov": "3.0.0",
     "debug": "3.1.0",
     "istanbul": "0.4.5",
-    "jasmine": "2.8.0",
+    "jasmine": "3.4.0",
     "jasmine-core": "2.8.0",
     "jasmine-jquery": "2.1.1",
     "jasmine-node": "1.14.5",
